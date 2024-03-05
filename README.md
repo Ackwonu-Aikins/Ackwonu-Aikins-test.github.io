@@ -7,4 +7,4 @@ This repository is built step by step in the tutorial.
 
 It includes setups for Github.
 This journey has been awesome.
-All is well because I was reading this time rounc.
+All is well because I was reading this time round.
