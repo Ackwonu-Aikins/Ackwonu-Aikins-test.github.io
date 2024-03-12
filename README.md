@@ -9,9 +9,5 @@ It includes setups for Github.
 This journey has been awesome.
 All is well because I was reading this time round.
 Learning has been great.
-<<<<<<< HEAD
-I am back.
-=======
 I am back.
 The concepts are getting to me.
->>>>>>> ecfa15e41f5462179f0d5e391aa33922686bcdc7
